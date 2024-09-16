@@ -1,0 +1,35 @@
+{
+  "name": "lec_05",
+  "version": "1.0.0",
+  "description": "This App is created by Aditya Pandey",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityapandey9882/Swiggy-App.git"
+  },
+  "keywords": [
+    "Swiggy",
+    "clone",
+    "app"
+  ],
+  "author": "Aditya Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityapandey9882/Swiggy-App/issues"
+  },
+  "homepage": "https://github.com/adityapandey9882/Swiggy-App#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.23.0"
+  }
+}
